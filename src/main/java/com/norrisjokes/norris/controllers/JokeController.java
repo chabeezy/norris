@@ -1,4 +1,4 @@
-package controllers;
+package com.norrisjokes.norris.controllers;
 
 import com.norrisjokes.norris.services.JokeService;
 import org.springframework.stereotype.Controller;
